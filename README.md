@@ -51,12 +51,6 @@ analitica-marketing/
 
 > 🔄 En desarrollo | ✅ Completado | 🧪 Fase de pruebas
 
-## 👩‍💻 Autor(a)
-
-- **Nombre:** Valentina Canchila  
-- **Carrera:** Marketing y Negocios Internacionales  
-- **Especialización:** Power BI y Tableau  
-- **Contacto:** [tu correo o LinkedIn aquí]
 
 
 Este proyecto hace parte de mi portafolio profesional en analítica de marketing. Fue desarrollado como parte de mi proceso de formación y práctica con herramientas de visualización y análisis de datos.
