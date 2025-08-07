@@ -18,28 +18,6 @@ Este proyecto tiene como objetivo aplicar técnicas de analítica de datos para 
 - **Manipulación de datos:** Pandas / NumPy / Excel
 - **Fuentes de datos:** Google Ads / Meta Ads / CRM simulado / CSV
 
-## 📂 Estructura del Proyecto
-```bash
-analitica-marketing/
-├── data/                # Conjuntos de datos (crudos y procesados)
-│   ├── raw/             # Datos sin procesar
-│   └── processed/       # Datos limpios y transformados
-│
-├── notebooks/           # Notebooks de análisis exploratorio y modelado
-│   ├── exploracion.ipynb
-│   └── modelo_segmentacion.ipynb
-│
-├── scripts/             # Scripts Python para procesamiento y análisis
-│   └── limpieza_datos.py
-│
-├── visualizaciones/     # Dashboards o gráficos generados
-│   └── dashboard_powerbi.pbix
-│
-├── informes/            # Reportes en PDF o presentaciones
-│   └── informe_final.pdf
-│
-└── README.md            # Descripción general del proyecto
-
 ## 📈 Resultados Esperados
 
 - Dashboard interactivo con visualización de KPIs.
